@@ -1,6 +1,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 # Next Level Week Return - Trilha Impulse
-Nesse curso projeto foi desenvolvido um projeto para envio de feedbacks. Link do projeto: [Feedget](https://nlw-return-impulse-kn5suhrs2-fernandasmarcilio.vercel.app/)
+Nesse curso projeto foi desenvolvido um projeto para envio de feedbacks. 
+
+![](feedget.git)
+
+
+Link do projeto: [Feedget](https://nlw-return-impulse-kn5suhrs2-fernandasmarcilio.vercel.app/)
 
 ## 💪 O que aprendi
 - Fundamentos do React
