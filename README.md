@@ -2,7 +2,7 @@
 # Next Level Week Return - Trilha Impulse
 Nesse curso projeto foi desenvolvido um projeto para envio de feedbacks. 
 
-![](feedget.git)
+![Feedget](feedget.gif)
 
 
 Link do projeto: [Feedget](https://nlw-return-impulse-kn5suhrs2-fernandasmarcilio.vercel.app/)
